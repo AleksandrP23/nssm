@@ -737,6 +737,11 @@ a {
 .activity {
   padding: 90px 0 70px;
 }
+@media (max-width: 768px) {
+  .activity {
+    padding: 70px 0 100px;
+  }
+}
 .activity__item {
   -ms-grid-column-span: 4;
   grid-column: 4 span;
