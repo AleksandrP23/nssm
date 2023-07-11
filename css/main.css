@@ -751,7 +751,7 @@ a {
   .activity__item {
     -ms-grid-column-span: 4;
     grid-column: 4 span;
-    padding: 70px 0 100px;
+/*     padding: 70px 0 100px; */
   }
 }
 
